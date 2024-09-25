@@ -1,61 +1,61 @@
 <modif_names>
-  <modif86>Привилегии номенклатуры</modif86>
-  <modif87>Гонка вооружений нового поколения</modif87>
-  <modif88>Дефицит рабочей силы</modif88>
-  <modif89>Декоммунизация</modif89>
+  <modif86>Nomenclature privileges</modif86>
+  <modif87>New Generation Arms Race</modif87>
+  <modif88>Labor shortage</modif88>
+  <modif89>Decommunization</modif89>
 </modif_names>
 
 <modif_desc>
-  <modif37var0>Эффекты с каждым годом уменьшаются!</modif37var0>
-  <modif57var0>От уровня самореализации</modif57var0>
-  <modif57var1>От уровня свобод</modif57var1>
-  <modif57var2>От уровня гражданской активности</modif57var2>
-  <modif57var3>Значение уровня модификатора меньше 0</modif57var3>
-  <modif86>Привилегии номенклатуры. Уровень:</modif86>
-  <modif86var0>Конвертики</modif86var0>
-  <modif87>Гонка вооружений нового поколения. Уровень:</modif87>
-  <modif87var0>США – не в НАТО</modif87var0>
-  <modif87var1>Ежемесячное влияние от модификатора станет следующим:</modif87var1>
-  <modif87var2>Увеличивает на 10% прирост вооружения и боевого духа сторон в войнах, которые поддерживаются</modif87var2>
-  <modif88>Дефицит рабочей силы. Уровень {0}. Текущее значение: {1}.</modif88>
-  <modif88var0>Базовое влияние</modif88var0>
-  <modif88var1>От решения</modif88var1>
-  <modid88var2>Верхняя планка мощи легкой промышленности: {0}.</modid88var2>
-  <modid88var3>Верхняя планка мощи тяжелой промышленности: {0}.</modid88var3>
-  <modid88var5>Верхняя планка мощи военной промышленности: {0}.</modid88var5>
-  <modid88var4>Модификатор деактивируется при уровне занятости ниже 100, модификатор активируется при уровне занятости равном 100</modid88var4>
+  <modif37var0>The effects are decreasing every year!</modif37var0>
+  <modif57var0>From the level of self-realization</modif57var0>
+  <modif57var1>From the level of freedoms</modif57var1>
+  <modif57var2>From the level of civic activity</modif57var2>
+  <modif57var3>Modifier level value is less than 0</modif57var3>
+  <modif86>Nomenclature Privileges. Level:</modif86>
+  <modif86var0>Envelopes</modif86var0>
+  <modif87>New Generation Arms Race. Level:</modif87>
+  <modif87var0>The US is not in NATO</modif87var0>
+  <modif87var1>The monthly impact from the modifier will be as follows:</modif87var1>
+  <modif87var2>Increases by 10% the growth of weapons and morale of the parties in wars that are supported</modif87var2>
+  <modif88>Labor Shortage. Level {0}. Current value: {1}.</modif88>
+  <modif88var0>Basic influence</modif88var0>
+  <modif88var1>From the decision</modif88var1>
+  <modid88var2>Upper limit of light industry power: {0}.</modid88var2>
+  <modid88var3>Upper limit of heavy industry power: {0}.</modid88var3>
+  <modid88var5>Upper limit of military industry power: {0}.</modid88var5>
+  <modid88var4>The modifier is deactivated when the employment level is below 100, the modifier is activated when the employment level is 100</modid88var4>
 </modif_desc>
 
 <conditions>
-  <AddManyTraitPoliticPower0>Сила политиков с чертой</AddManyTraitPoliticPower0>
-  <AddManyTraitPoliticPower1>Сила политиков с чертами</AddManyTraitPoliticPower1>
-  <AddManyTraitPoliticLoyality0>Лояльность политиков с чертой</AddManyTraitPoliticLoyality0>
-  <AddManyTraitPoliticLoyality1>Лояльность политиков с чертами</AddManyTraitPoliticLoyality1>
-  <TechInProgressYes>Есть технологии в прогрессе изучения</TechInProgressYes>
-  <TechInProgressNo>Нет технологий в прогрессе изучения</TechInProgressNo>
-  <Adds6alt>Очки гражданских наук: +{0} (+{2}/за каждого члена {1})</Adds6alt>
-  <Adds57>Сила всех политиков</Adds57>
-  <Adds58>Лояльность всех политиков</Adds58>
-  <Adds59>Отношения со странами с типами правления</Adds59>
-  <Adds60>Вектор дипломатии стран с типом правления</Adds60>
-  <Adds61>Вектор дипломатии стран с типами правления</Adds61>
-  <CheckCountryInfluence0>{0} в нашей сфере влияния</CheckCountryInfluence0>
-  <CheckCountryInfluence4>{0} в сфере влияния нашего союзника</CheckCountryInfluence4>
-  <CheckCountryInfluence5>{0} не в нашей сфере влияния нашего союзника</CheckCountryInfluence5>
-  <FactionsUpOneParty>Влияние фракции</FactionsUpOneParty>
-  <FactionsUpManyParty>Влияние партии</FactionsUpManyParty>
-  <IncomeSource_Oil>Доход от экспорта нефти</IncomeSource_Oil>
-  <FactionLoyalPlus4>Лояльность политиков из партии</FactionLoyalPlus4>
-  <SubjectCountryForVector>Дипломатический вектор субъектов</SubjectCountryForVector>
-  <CharacterTraitCheck0>имеет черту</CharacterTraitCheck0>
-  <CharacterTraitCheck1>не имеет черту</CharacterTraitCheck1>
-  <PoliticPositionHasThisFaction0_0>принадлежит к фракции</PoliticPositionHasThisFaction0_0>
-  <PoliticPositionHasThisFaction1_0>не принадлежит к партии</PoliticPositionHasThisFaction1_0>
-  <PoliticPositionHasThisFaction0_1>принадлежит к фракции</PoliticPositionHasThisFaction0_1>
-  <PoliticPositionHasThisFaction1_1>не принадлежит к партии</PoliticPositionHasThisFaction1_1>
-  <PoliticPositionHasThisFactionAdd0>Должность занимает</PoliticPositionHasThisFactionAdd0>
-  <sanctionsOn>Будут введены санкции против государства</sanctionsOn>
-  <sanctionsOff>Будут отменены санкции против государства</sanctionsOff>
-  <CountryUnderOurSanctions0>находится под нашими санкциями</CountryUnderOurSanctions0>
-  <CountryUnderOurSanctions1>не находится под нашими санкциями</CountryUnderOurSanctions1>
+  <AddManyTraitPoliticPower0>Power of politicians with trait</AddManyTraitPoliticPower0>
+  <AddManyTraitPoliticPower1>Power of politicians with traits</AddManyTraitPoliticPower1>
+  <AddManyTraitPoliticLoyality0>Loyalty of politicians with a trait</AddManyTraitPoliticLoyality0>
+  <AddManyTraitPoliticLoyality1>Loyalty of politicians with traits</AddManyTraitPoliticLoyality1>
+  <TechInProgressYes>There are technologies in progress of study</TechInProgressYes>
+  <TechInProgressNo>There are no technologies in progress of study</TechInProgressNo>
+  <Adds6alt>Civic Science Points: +{0} (+{2}/per {1} member)</Adds6alt>
+  <Adds57>The power of all politicians</Adds57>
+  <Adds58>Loyalty of all politicians</Adds58>
+  <Adds59>Relations with countries with types of government</Adds59>
+  <Adds60>Vector of diplomacy of countries with the type of government</Adds60>
+  <Adds61>Vector of diplomacy of countries with types of government</Adds61>
+  <CheckCountryInfluence0>{0} in our sphere of influence</CheckCountryInfluence0>
+  <CheckCountryInfluence4>{0} in the sphere of influence of our ally</CheckCountryInfluence4>
+  <CheckCountryInfluence5>{0} not in our ally's sphere of influence</CheckCountryInfluence5>
+  <FactionsUpOneParty>Influence of the faction</FactionsUpOneParty>
+  <FactionsUpManyParty>Party influence</FactionsUpManyParty>
+  <IncomeSource_Oil>Oil export revenue</IncomeSource_Oil>
+  <FactionLoyalPlus4>Loyalty of politicians from the party</FactionLoyalPlus4>
+  <SubjectCountryForVector>Diplomatic vector of subjects</SubjectCountryForVector>
+  <CharacterTraitCheck0>has a trait</CharacterTraitCheck0>
+  <CharacterTraitCheck1>has no trait</CharacterTraitCheck1>
+  <PoliticPositionHasThisFaction0_0>belongs to a faction</PoliticPositionHasThisFaction0_0>
+  <PoliticPositionHasThisFaction1_0>does not belong to the party</PoliticPositionHasThisFaction1_0>
+  <PoliticPositionHasThisFaction0_1>belongs to a faction</PoliticPositionHasThisFaction0_1>
+  <PoliticPositionHasThisFaction1_1>does not belong to the party</PoliticPositionHasThisFaction1_1>
+  <PoliticPositionHasThisFactionAdd0>The position is occupied by</PoliticPositionHasThisFactionAdd0>
+  <sanctionsOn>Sanctions will be imposed against the state</sanctionsOn>
+  <sanctionsOff>Sanctions against the state will be lifted</sanctionsOff>
+  <CountryUnderOurSanctions0>is under our sanctions</CountryUnderOurSanctions0>
+  <CountryUnderOurSanctions1>is not under our sanctions</CountryUnderOurSanctions1>
 </conditions>
